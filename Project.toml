@@ -1,0 +1,13 @@
+name = "tiddlywinks"
+uuid = "418f406a-e4d4-46e8-ae0e-fa87af25a172"
+authors = ["ES"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
