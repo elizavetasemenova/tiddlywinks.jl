@@ -1,4 +1,4 @@
-# tiddlywinks2
+# tiddlywinks
 
 [![Build Status](https://travis-ci.com/elizavetasemenova/tiddlywinks2.jl.svg?branch=master)](https://travis-ci.com/elizavetasemenova/tiddlywinks2.jl)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/elizavetasemenova/tiddlywinks2.jl?svg=true)](https://ci.appveyor.com/project/elizavetasemenova/tiddlywinks2-jl)
